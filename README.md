@@ -5,7 +5,7 @@
 
 :lollipop: So far, my professional career has been related to the sugar industry. In July 2022, I started my adventure with Data Science, which is developing very quickly. I am ready for new challenges!
 
-:woman: I am open and willing to work in a team, so if you are looking for a collaborator - you can write to me.
+:woman: I am open and willing to work in a team, so if you are looking for a collaborator - write to me.
 <!--
 **michalinahulak/michalinahulak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
