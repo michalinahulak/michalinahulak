@@ -1,5 +1,11 @@
-### Hi there 👋
+# 👋 HELLO WORLD! 👋
 
+#### Welcome to my Github! 
+:computer: I have several public repositories here, feel free to browse. My projects are about Data Science (Machine Learning, AI). I really like constructive feedback, so I encourage you to leave suggestions and comments in the 'give feedback' section.
+
+:lollipop: So far, my professional career has been related to the sugar industry. In July 2022, I started my adventure with Data Science, which is developing very quickly. I am ready for new challenges!
+
+:woman: I am open and willing to work in a team, so if you are looking for a collaborator - you can write to me.
 <!--
 **michalinahulak/michalinahulak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
