@@ -5,6 +5,11 @@
 
 :lollipop: So far, my professional career has been related to the sugar industry. In July 2022, I started my adventure with Data Science, which is developing very quickly. I am ready for new challenges!
 
+:pencil: Currently, I am working on the following projects:
+* [lunar_landscape_segmentation](https://github.com/michalinahulak/lunar_landscape_segmentation) (almost completed)
+* [CAFA 5 Protein Function Prediction](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction?rvi=1) (participating in the Kaggle competition with a team)
+* lending_club (building a model using PySpark)
+
 :woman: I am open and willing to work in a team, so if you are looking for a collaborator - write to me.
 <!--
 **michalinahulak/michalinahulak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
