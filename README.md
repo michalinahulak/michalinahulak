@@ -5,8 +5,8 @@
 
 :woman_factory_worker: So far, my professional career has been related to the sugar industry. In July 2022, I started my adventure with Data Science, which is developing very quickly. I am ready for new challenges!
 
-:pencil: Currently, I am working on the following projects:
-* [Child Mind Institute - Detect Sleep States](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states) (participating in the Kaggle competition with a team)
+:pencil: Currently, I am working here:
+* [my kaggle](https://www.kaggle.com/michalinahulak) (participating in the Kaggle competition with a team)
 
 :tada: Together with the team, we achieved the 37th place out of over 1650 teams in [CAFA 5 Protein Function Prediction](https://www.kaggle.com/competitions/cafa-5-protein-function-prediction?rvi=1) competition.
 
